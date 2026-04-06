@@ -11,7 +11,7 @@ The system allows service providers to offer services and clients to schedule ap
 - PostgreSQL
 - SQL
 
-## 📂 Project Structure
+## Project Structure
 
 - schema/ → database structure (tables, types, indexes)
 - seeds/ → sample data
@@ -31,6 +31,6 @@ The system allows service providers to offer services and clients to schedule ap
 - Use of ENUM types
 - Optimized queries with indexes
 
-## 📚 Purpose
+## Purpose
 
 This project was developed for learning and portfolio purposes.
